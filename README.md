@@ -46,7 +46,6 @@ creating_and_normalazing_db/
 </details>
 
 Также для решения финального задания была создана таблица `calendar_dt` со всеми днями с 2017-01-01 по 2018-12-31.
-<details>
 
 Решение приведено в [здесь](https://github.com/steishas/homework5mipt_pyspark/blob/main/%D0%94%D0%97_5_%D0%A1%D0%BC%D0%B8%D1%80%D0%BD%D0%BE%D0%B2%D0%B0_%D0%90_%D0%9C.ipynb).
 Исходная таблица [здесь](https://github.com/steishas/homework5mipt_pyspark/blob/main/Hotel.csv).
